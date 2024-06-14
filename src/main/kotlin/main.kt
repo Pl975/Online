@@ -45,11 +45,6 @@ fun hourstringEnd(time: Int) : String {
     }
 }
 
-//fun hourstringEnd(time: Int) = when (time / 3600 % 10) {
-//    1 -> "час"
-//    2, 3, 4 -> "часа"
-//    else -> "часов"
-//}
 
 
 
